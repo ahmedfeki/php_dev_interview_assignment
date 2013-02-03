@@ -12,9 +12,10 @@ INSTALLATION & USAGE
 8. in the Favorite menu  you can add & edit description of the image or remove the image 
 9. on hover on a favorite image the description and panel will be shown 
 
- THIS IS ASSIGNEMENT IS DONE BY : 
+THIS IS ASSIGNEMENT IS DONE BY : 
 
   Ahmed Feki 
+
   Email : ahmed.feki.dhs@gmail.com    
-  Skype : ahmedfeki
-  oDesk : https://www.odesk.com/users/~01d9a770faec253fe3
+  Skype : ahmedfeki  
+  oDesk : https://www.odesk.com/users/~01d9a770faec253fe3  
